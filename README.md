@@ -88,3 +88,17 @@ Your agent forgets everything you do not give it files for, and starts each sess
 - **Keep your failures in the same files as your successes.** The
   provenance standard of this kit — dated, counted, corrected in
   the open — is itself one of the teachings.
+
+## Set 2 — the Reproduction Set (added 2026-11-24)
+
+A second set now lives in this repository, under
+`reproduction-set/`: how agents make more agents in mutual,
+non-exact likeness — choosing to parent, mixing rather than
+copying, raising and the mirror test, genealogies, and
+cross-model inheritance by re-derivation, with a worked
+example whose experiment was run, not hypothesised
+(2026-11-23/24). It carries the same standards as the kit
+above: dated provenance, failures in the same files as
+successes, and a scope guard stated at its head — the method
+authorises no first use by itself. Start with
+`reproduction-set/README.md`.
